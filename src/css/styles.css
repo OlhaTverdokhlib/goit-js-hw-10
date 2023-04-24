@@ -22,6 +22,11 @@ body {
   margin-bottom: 16px;
 }
 
-.test{
-  display:none
+ul {
+  list-style: none;}
+
+.country-info{
+  display: flex;
+  align-items: center;
+  gap: 5px;
 }
