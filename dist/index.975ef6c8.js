@@ -506,6 +506,6 @@ function hmrAcceptRun(bundle, id) {
 var _stylesCss = require("./css/styles.css");
 const DEBOUNCE_DELAY = 300;
 
-},{"./css/styles.css":"1CY4s"}],"1CY4s":[function() {},{}]},["1RB6v","8lqZg"], "8lqZg", "parcelRequireabb0")
+},{"./css/styles.css":"1CY4s"}],"1CY4s":[function() {},{}]},["1RB6v","8lqZg"], "8lqZg", "parcelRequire94c2")
 
 //# sourceMappingURL=index.975ef6c8.js.map
